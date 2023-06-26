@@ -2,13 +2,13 @@
 REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
  
                 
-             5V | 2  1 | PC3 (LCD_RS)
-           NRST | 4  3 | PC2 (LCD_ENABLE)
-  (BTN_EN2) PB4 | 6  5 | PB3  (BTN_ENC)
-  (BTN_EN1) PB5 | 8  7 | PC1  (LCD_D4)
- (SD_MOSI) PB15 | 10 9 | PB13 (SD_SCK)
-            3v3 |12  11| GND
-  (BEERPER) PD2 |14  13| IO1
+               5V | 2  1 | PC3 (LCD_RS)
+             NRST | 4  3 | PC2 (LCD_ENABLE)
+    (BTN_EN2) PB4 | 6  5 | PB3  (BTN_ENC)
+    (BTN_EN1) PB5 | 8  7 | PC1  (LCD_D4)
+   (SD_MOSI) PB15 | 10 9 | PB13 (SD_SCK)
+              3v3 |12  11| GND
+    (BEERPER) PD2 |14  13| IO1
       
 
 FIRMIWARE EDITADO PARA MOTORES NEMA 17 NA IMPRESSORA K7 
