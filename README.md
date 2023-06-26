@@ -18,3 +18,5 @@ COLOCAR NA IMPRESSORA DESLIGADA
 LIGAR A IMPRESSORA E AGUARDAR 60 SEGUNDOS
 
 CONECTOR DISCOUNT FULL GRAPHIC https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/issues/159
+
+logo mais postarei arquivo marlin editado
